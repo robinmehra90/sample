@@ -1,3 +1,1 @@
-some data not useful at all
-
-now.let's make this useful to find difference between a file and a staged file
+let's make this useful to find difference between a file and a staged file
